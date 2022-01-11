@@ -6,7 +6,7 @@ const transform = (src, id) => {
         }
       }
 };
-export default function BpmnLoader () { 
+module.exports =  function BpmnLoader () { 
     return {
         name: 'bpmn-loader',
         transform
