@@ -1,0 +1,11 @@
+{
+  "name": "vite-bpmn-loader",
+  "version": "1.0.0",
+  "description": "vite bpmn file loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isjinlongw",
+  "license": "ISC"
+}
